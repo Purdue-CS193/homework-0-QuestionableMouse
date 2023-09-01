@@ -1,4 +1,4 @@
-#John Thomas's First CS193 Homework
+# John Thomas's First CS193 Homework
 
 My favorite things about this class:
 - I get to learn Github.
